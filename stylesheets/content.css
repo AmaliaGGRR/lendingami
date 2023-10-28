@@ -1,0 +1,245 @@
+body
+{
+  background-color: #F5D7B8 ;
+}
+
+p{
+    font-family: "Kazimir";
+    font-size: 110px;
+}
+
+.page1{
+    width: 100%;
+    align-items: center;
+    display: block;
+    justify-content: center;
+    position: relative;
+}
+
+.text1{
+    text-align: center;
+    position: relative;
+    margin-top: -850px;
+    justify-content: center;
+display: block;
+}
+
+.page1img{
+justify-content: center;
+display: block;
+width: 100%;
+text-align: center;
+}
+
+.text2{
+    color: white;
+    position: relative;
+    font-size: 40px;
+    margin-left: 480px;
+   margin-top: -27px;
+   
+}
+
+h3{
+    font-family: "Kazimir";
+    font-size: 30px;
+    position: relative;
+   
+    text-align: center;
+    margin-right: 690px;
+    margin-top: 108px;
+    line-height: 120%;
+
+
+}
+
+
+h4{
+    font-family: "Kazimir";
+    font-size: 30px;
+    position: relative;
+   
+    text-align: center;
+    margin-left: 696px;
+    margin-top: -74px;
+    line-height: 120%;
+   
+}
+
+h5{
+    font-family: "Kazimir Bold Italic";
+    position: relative;
+    font-size: 30px;
+    margin-top: 60px;
+    margin-left: 670px;
+    
+}
+
+.page2img{
+    margin-top: 1px;
+    margin-left: 600px;
+    position: relative;
+    display: block;
+    
+
+
+}
+
+h6{
+    font-family: "Kazimir Black";
+    font-size: 60px;
+    margin-top: 500px;
+    margin-left: 40px;
+    position: relative;
+    display: block;
+    
+}
+
+
+.www{
+    font-family: "Kazimir";
+    font-size: 30px;
+    
+    margin-top: 30px;
+    margin-left: 40px;
+    line-height: 120%;
+    position: relative;
+    
+}
+
+.page3img{
+    width: 100%;
+    margin-top: 50px;
+}
+
+.ppp{
+    font-family: "Kazimir Black";
+    font-size: 60px;
+    margin-top: 60px;
+    margin-left: 548px;
+}
+
+.sss{
+    font-family: "Kazimir";
+    font-size: 35px;
+    margin-top: -1380px;
+    margin-left: 630px;
+    line-height: 120%;
+    position: relative;
+    display: block;
+
+}
+
+.ddd{
+    font-family: "Kazimir";
+    font-size: 37px;
+    text-align: center;
+    margin-top: 675px;
+    margin-left: 20px;
+    line-height: 120%;
+    position: relative;
+    display: block;
+}
+
+.page4img{
+    margin-top: 260px;
+    margin-left: 250px;
+}
+
+.page5img{
+    margin-top: 50px;
+    margin-left: 280px;
+}
+
+.lll{
+    font-family: "Kazimir Black";
+    font-size: 60px;
+    margin-top: 80px;
+    margin-left: 370px;
+}
+
+.kkk{
+    font-family: "Kazimir";
+    font-size: 50px;
+    color: #0ABAB5;
+    margin-top: 70px;
+    margin-left: 100px;
+}
+
+.page6img{
+    width: 80%;
+   margin-top: -230px;
+   
+}
+
+.bbb{
+    font-family: "Kazimir Italic";
+    font-size: 50px;
+    color: #0ABAB5;
+    margin-top: -838px;
+    margin-left: 650px;
+}
+
+
+
+
+.vvv{
+    font-family: "Kazimir Bold Italic";
+    position: relative;
+    color: #0ABAB5;
+    font-size: 50px;
+    margin-top: 595px;
+    margin-left: 370px;
+
+}
+
+.page7img{
+    width: 60%;
+    margin-left: 400px;
+    margin-top: -190px;
+    position: relative;
+    display: block;
+
+}
+.ccc{
+    font-family: "Kazimir Bold";
+    position: relative;
+    color: #0ABAB5;
+    font-size: 50px;
+    margin-top: -725px;
+    margin-left: 960px;
+}
+
+.page8img{
+    width: 100%;
+    display: block;
+    position: relative;
+    margin-top: 650px;
+}
+
+.page9img{
+    width: 100%;
+    display: block;
+    position: relative;
+}
+
+.eee{
+    font-family: "Kazimir Black";
+    display: block;
+    position: relative;
+    font-size: 60px;
+   margin-top: -1630px;  
+   margin-left: 600px;
+}
+
+.uuu{
+    font-family: "Kazimir Medium";
+    display: block;
+    position: relative;
+    color: white;
+    font-size: 50px;
+    margin-top: 1370px;
+    line-height: 120%;
+    margin-left: 60px;
+}
+

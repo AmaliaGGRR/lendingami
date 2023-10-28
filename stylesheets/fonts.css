@@ -1,0 +1,53 @@
+@font-face {
+    font-family: "Kazimir Black Italic" ;
+    src: url(../fonts/Kazimir\ Black\ Italic.otf);
+    font-style: bold italic;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Kazimir Black" ;
+    src: url(../fonts/Kazimir\ Black\.otf);
+    font-style: bold;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Kazimir Bold Italic" ;
+    src: url(../fonts/Kazimir\ Bold\ Italic.otf);
+    font-style: bold italic;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Kazimir Bold" ;
+    src: url(../fonts/Kazimir\ Bold.otf);
+    font-style: bold;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Kazimir Medium Italic" ;
+    src: url(../fonts/Kazimir\ Medium\ Italic.otf);
+    font-style: medium italic;
+    font-weight: medium;
+}
+
+@font-face {
+    font-family: "Kazimir Medium" ;
+    src: url(../fonts/Kazimir\ Medium.otf);
+    font-style: medium;
+    font-weight: medium;
+}
+
+@font-face {
+    font-family: "Kazimir" ;
+    src: url(../fonts/Kazimir.otf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Kazimir Italic" ;
+    src: url(../fonts/Kazimir\ Italic.otf);
+    font-weight: normal;
+}
